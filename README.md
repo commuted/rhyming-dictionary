@@ -7,7 +7,7 @@ The original dictionary can be found here. http://www.speech.cs.cmu.edu/cgi-bin/
 
 Search for a word or similar sounding word. 
 
-Example: $node rdict.js schoepf
+Command line example: $ node rdict.js schoepf
 
 [ 'schoepe',
   'schoepf',
