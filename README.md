@@ -7,6 +7,71 @@ The original dictionary can be found here. http://www.speech.cs.cmu.edu/cgi-bin/
 
 Search for a word or similar sounding word. 
 
+Example: $node rdict antelope
+
+[ 'cantaloupe',
+  'antelope',
+  'envelope',
+  'elope',
+  'slope',
+  'lope',
+  'dope',
+  'hope',
+  'proctoscope',
+  'kaleidoscope',
+  'laryngoscope',
+  'bronchoscope',
+  'telescope',
+  'oscilloscope',
+  'ophthalmoscope',
+  'horoscope',
+  'gyroscope',
+  'polariscope',
+  'periscope',
+  'stereomicroscope',
+  'microscope',
+  'antroscope',
+  'gastroscope',
+  'stethoscope',
+  'worldscope',
+  'interscope',
+  'endoscope',
+  'marketscope',
+  'scope',
+  'cope',
+  'koep',
+  'koepp',
+  'koeppe',
+  'kope',
+  'mope',
+  'partenope',
+  'knope',
+  'nope',
+  'pope',
+  'groep',
+  'grope',
+  'heliotrope',
+  'allotrope',
+  'tightrope',
+  'isentrope',
+  'strope',
+  'misanthrope',
+  'rope',
+  'softsoap',
+  'soap',
+  'sope',
+  'schoepe',
+  'schoepf',
+  'schoepp',
+  'shope',
+  'isotope',
+  'epitope',
+  'tope',
+  'swope' ]
+
+
+
+
 Based on this phone list.
 
         Phoneme Example Translation
