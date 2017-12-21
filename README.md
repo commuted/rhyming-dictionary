@@ -7,7 +7,7 @@ The original dictionary can be found here. http://www.speech.cs.cmu.edu/cgi-bin/
 
 Search for a word or similar sounding word. 
 
-Example: $node rdict antelope
+Example: $node rdict.js antelope
 
 [ 'cantaloupe',
   'antelope',
