@@ -1,20 +1,18 @@
 # rhyming-dictionary
-Rhyming dictionary based on the CMU Pronouncing Dictionary, a reverse phoneme rhyming dictionary. 
+Rhyming dictionary based on the "CMU Pronouncing Dictionary", a reverse phoneme rhyming dictionary. 
 
-A single file includes dictionary. It may be used as an EC2 Lamda fuction without reading a library or accessing records.
+A single file includes dictionary. It may be used as an EC2 Lamda fuction without accessing records.
 
 The original dictionary can be found here. http://www.speech.cs.cmu.edu/cgi-bin/cmudict
 
 Search for a word or similar sounding word. 
 
-Example: $node rdict.js antelope
+Example: $node rdict.js schoepf
 
-[ 'cantaloupe',
-  'antelope',
-  'envelope',
-  'elope',
-  'slope',
-  'lope',
+[ 'schoepe',
+  'schoepf',
+  'schoepp',
+  'shope',
   'dope',
   'hope',
   'proctoscope',
@@ -43,6 +41,12 @@ Example: $node rdict.js antelope
   'koepp',
   'koeppe',
   'kope',
+  'cantaloupe',
+  'antelope',
+  'envelope',
+  'elope',
+  'slope',
+  'lope',
   'mope',
   'partenope',
   'knope',
@@ -60,16 +64,10 @@ Example: $node rdict.js antelope
   'softsoap',
   'soap',
   'sope',
-  'schoepe',
-  'schoepf',
-  'schoepp',
-  'shope',
   'isotope',
   'epitope',
   'tope',
   'swope' ]
-
-
 
 
 Based on this phone list.
