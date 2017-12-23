@@ -7,9 +7,12 @@ The original dictionary can be found here. http://www.speech.cs.cmu.edu/cgi-bin/
 
 Search for a word or similar sounding word. 
 
-
 var dict = require('rhyming_dictionary');
 console.log(dict.lookup(process.argv[2]));
+
+Install using npm:
+
+npm i rhyming_dictionary
 
 
 Command line example: $ node rdict.js schoepf
