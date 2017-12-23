@@ -1,4 +1,4 @@
-# rhyming-dictionary
+# rhyming-dictionary (English)
 Rhyming dictionary based on the "CMU Pronouncing Dictionary", a reverse phoneme rhyming dictionary. 
 
 A single file includes dictionary. It may be used as an EC2 Lamda fuction without accessing records with slight mod for lambda.
