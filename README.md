@@ -1,11 +1,16 @@
 # rhyming-dictionary
 Rhyming dictionary based on the "CMU Pronouncing Dictionary", a reverse phoneme rhyming dictionary. 
 
-A single file includes dictionary. It may be used as an EC2 Lamda fuction without accessing records.
+A single file includes dictionary. It may be used as an EC2 Lamda fuction without accessing records with slight mod for lambda.
 
 The original dictionary can be found here. http://www.speech.cs.cmu.edu/cgi-bin/cmudict
 
 Search for a word or similar sounding word. 
+
+
+var dict = require('rhyming_dictionary');
+console.log(dict.lookup(process.argv[2]));
+
 
 Command line example: $ node rdict.js schoepf
 
