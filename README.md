@@ -70,7 +70,7 @@ Command line example: $ node rdict.js schoepf
   'swope' ]
 
 
-Based on this phone list.
+Based on this phone list below. Therefore, "abhorrence AH B HH AO R AH0 N S" ends in an 'S', and 'abolishes AH0 B AA L IH SH IH Z' ends in 'Z'. 
 
         Phoneme Example Translation
         ------- ------- -----------
