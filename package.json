@@ -1,0 +1,35 @@
+{
+  "name": "rhyming_dictionary",
+  "version": "1.0.0",
+  "description": "Rhying dictionary, reverse phoneme sort",
+  "main": "rdict.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commuted/rhyming_dictionary.git"
+  },
+  "keywords": [
+    "rhyme",
+    "rhyming",
+    "poem",
+    "poetry",
+    "meter",
+    "syllables",
+    "pronounce",
+    "pronunciation",
+    "phone",
+    "phoneme",
+    "phonemes",
+    "phonetic",
+    "lyrics",
+    "dictionary"
+  ],
+  "author": "Ron Hinchley ,commuted@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/commuted/rhyming_dictionary/issues"
+  },
+  "homepage": "https://github.com/commuted/rhyming_dictionary#readme"
+}
